@@ -1,12 +1,16 @@
 # hhhhh
 
-`git status`
+`git add README.md`
 
+`git status`
 `git diff`
+`git log`
+
+`git config user.name`
+`git config user.email`
 
 `git add`
 
-`git commit`
-`git log`
+`git commit -m "message"`
 
-`git push`
+`git push origin main`
